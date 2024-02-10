@@ -11,6 +11,11 @@ tags <> - jokhn e amra <> dui ta sign eksathe dekhi oitai tags.
 //p {paragraph} - general text
 //b {bold} - bold text
 //i {italic} - italic text
+//sup {superscript} - upper text
+//sub {subscript} - lower text
+//ol {ordered list} - numbered list
+//ul {unordered list} - bullet list
+//li {list item} - list er item
 
 img 
 form input
