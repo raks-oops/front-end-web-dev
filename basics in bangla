@@ -9,6 +9,8 @@ tags <> - jokhn e amra <> dui ta sign eksathe dekhi oitai tags.
 #  h1- h6 p b i sup sub ol ul li
 //h1- h6 {heading}
 //p {paragraph} - general text
+//b {bold} - bold text
+//i {italic} - italic text
 
 img 
 form input
