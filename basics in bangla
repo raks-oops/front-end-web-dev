@@ -1,0 +1,15 @@
+html jinish ta ki - 
+// website e je kono content ja amra dekhte pai seta html.
+//like kono likha/ image/ video/ audio/ link/ button/ form/ table/ list/ etc.
+//html er kaj holo website e content show korano.
+//like jeta amake knowledge dey / amar sathe interact kore /amar kaj korte help kore.
+
+tags <> - jokhn e amra <> dui ta sign eksathe dekhi oitai tags.
+
+#  h1- h6 p b i sup sub ol ul li
+//h1- h6 {heading}
+//p {paragraph} - general text
+
+img 
+form input
+div
