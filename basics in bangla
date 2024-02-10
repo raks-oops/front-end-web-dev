@@ -17,6 +17,17 @@ tags <> - jokhn e amra <> dui ta sign eksathe dekhi oitai tags.
 //ul {unordered list} - bullet list
 //li {list item} - list er item
 
-img 
-form input
-div
+#  img
+//img {image} - image show korar jonno
+<img src="image.jpg" alt="image er text if the image cannot be shown">
+<a href="https://www.google.com">google</a>
+//form {form} - user input nibe
+<form>
+    <input type="text" placeholder="username">
+    <input type="password" placeholder="password">
+    <br>
+    <input type="submit" value="login">
+</form>
+
+#  div
+//div {division} - content gulo ke alada kore rakhar jonno div use kora hoy.
